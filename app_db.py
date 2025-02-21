@@ -126,7 +126,7 @@ def run_camera_loop():
         status_placeholder.markdown("\n".join(status_lines))
 
         # 5) Tiny sleep to avoid busy looping
-        time.sleep(0.25)
+        time.sleep(1)
 
     cap.release()
     # Clear the placeholders (optional)
