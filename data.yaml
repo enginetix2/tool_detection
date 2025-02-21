@@ -1,0 +1,4 @@
+train: train
+val: val
+nc: 8  # Number of classes (update this based on your tools)
+names: ["cable_a_in", "battery_in", "cable_b_in", "gpu_in", "cable_a_out", "battery_out", "cable_b_out", "gpu_out"]  # Names of classes (update this based on your tools)

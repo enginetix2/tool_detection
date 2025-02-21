@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+LabelImg
+lxml
+PyQt5
+pyqt5-tools
+torch
+torchvision
+torchtext
+torchaudio
+streamlit
+streamlit-autorefresh

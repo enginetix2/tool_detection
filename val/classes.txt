@@ -1,0 +1,8 @@
+cable_a_in
+battery_in
+cable_b_in
+gpu_in
+cable_a_out
+battery_out
+cable_b_out
+gpu_out
